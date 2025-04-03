@@ -12,7 +12,7 @@ Technologies I aim to use:
 Create and set the env vars:
 ```
 cp .env.example .env
-# Then edit the .env file and add your Supabase auth token
+# Then edit the .env file and add your secrets
 
 source .env
 ```
