@@ -9,8 +9,11 @@ Technologies I aim to use:
 * typescript
 * Shadcn/ui
 
-Set the env vars:
+Create and set the env vars:
 ```
-source env
+cp .env.example .env
+# Then edit the .env file and add your Supabase auth token
+
+source .env
 ```
 
