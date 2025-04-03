@@ -17,3 +17,9 @@ cp .env.example .env
 source .env
 ```
 
+## UI
+
+Example of what the UI looks like (CRUD on to do list items):
+
+![Todo list view](todo-list-view.png)
+
